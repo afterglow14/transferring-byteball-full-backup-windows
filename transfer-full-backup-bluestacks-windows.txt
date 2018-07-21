@@ -96,7 +96,7 @@ Click "Copy to..."
 
 <hr>
 
-Click "Pixel XL". IMPORTANT: If something different appears on this step just click it.
+Click "Pixel XL". IMPORTANT: If something different appears on this step just click it..
 ![Capture 9.PNG](https://ipfs.busy.org/ipfs/QmcsiKRdZhJ5XJB2TKkvAJADKY6k6XvcXYNHhi8CMFqyQh)
 
 <hr>
