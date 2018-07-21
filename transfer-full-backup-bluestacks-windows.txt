@@ -1,0 +1,125 @@
+#### Repository
+https://github.com/bluestacks
+
+#### What Will I Learn?
+
+- You will learn to transfer the full backup of your Byteball Wallet from Bluestacks 3.0 to Windows 10.
+- You will learn to use the built-in file manager of Android Nougat on Bluestacks 3.0.
+- You will learn to copy files from one folder to another inside Bluestacks 3.0.
+
+
+#### Requirements
+
+
+- Bluestacks 3.0 installed on Windows 10.
+- A installed Byteball wallet app inside Bluestacks not in Windows 10.
+
+
+#### Difficulty
+
+
+- Basic
+
+#### Tutorial Contents
+Bluestacks is an Android in emulator for Windows. An emulator is an application that mimics the physical attribute of a mobile device enabling you to install your favorite Android apps in your computer such as Viber, Clash of Clans, WeChat, Facebook, Whatsapp, Discord, SnapChat, Instagram, Google Chrome. You can even install your favorite cryptocurrency wallet in Bluestacks just like what I have done in this tutorial using the Android app of Byteball wallet.
+
+
+<hr>
+
+*For cryptocurrency beginners let's create a backup first*
+
+Open Byteball app then click the three lines at the upper left.
+![1.PNG](https://ipfs.busy.org/ipfs/QmWFQB5FS8ed5JdBnP5p281ysfTbiwyLAXdD7aGerdq2kL)
+
+<hr>
+
+Click "Settings"
+![2.PNG](https://ipfs.busy.org/ipfs/QmV2wVLVvg2f48h1qq6qiiqPRQ8CLgaNyabhJhVQ6u41BX)
+
+<hr>
+
+SCROLL DOWN to find "Full backup" then click it.
+![3.PNG](https://ipfs.busy.org/ipfs/QmWBZFsL1pBkQhRMDrGNufGZRzfFFUEWgwMeYHvVYpbKDV)
+
+<hr>
+
+Type the password for your backup. DO NOT FORGET THE PASSWORD because you will need it if you want to restore your wallet later or in another device. After you typed the password click EXPORT to create the backup.
+![4.PNG](https://ipfs.busy.org/ipfs/QmadK6gziVDeCeGRWJErHpkLuSrTDjuDcbWFwjZkVpb2cK)
+
+<hr>
+
+*Transferring the backup from Bluestacks to Windows. This is a tricky part, carefully follow the instruction. Do not click anything just follow the instruction. It may hang. Be patient.*
+
+Close Byteball app then click "System app"
+![Capture 1.PNG](https://ipfs.busy.org/ipfs/QmSbb4UVHHNJB6NJ2Pb64VRA9f3cdMMBd7MXkahkGDRpfe)
+
+<hr>
+
+Click "Settings"
+![Capture 2.PNG](https://ipfs.busy.org/ipfs/QmeoFQh6fEYs1AmU4LMRXXDkdS3kjZWLEiAFimni61MTZG)
+
+<hr>
+
+Click "Storage"
+![Capture 3.PNG](https://ipfs.busy.org/ipfs/QmXsaV15jwwj7HfhqvFvenWyS4XweuctPEaQwvbzjdw61r)
+
+<hr>
+
+SCROLL DOWN ALL THE WAY TO THE BOTTOM then click "Explore". Clicking explore will automatically launch the built-in file manager of Android Nougat.
+![Capture 4.PNG](https://ipfs.busy.org/ipfs/QmaYoeiWSJuAkDw7BgryLMfUtxc5u85sbw6RpmKCUapbfY)
+
+<hr>
+
+Click "Byteball"
+![Capture 5.PNG](https://ipfs.busy.org/ipfs/QmbeoZ3o4Rrvturg2z8Z7Xn6HmqWxsT8CfzkAjH5eXYBoh)
+
+<hr>
+
+You should see a file with a name just like the screenshot below, proceed to the next step.
+![Capture 6.PNG](https://ipfs.busy.org/ipfs/QmR39rSXLW2sY2mVoSdUS4zEtTQCvhHduLEUYLHDm1C938)
+
+
+<hr>
+
+Choose the backup that you want to transfer then LONG PRESS on it using your LEFT MOUSE button until a GREEN check mark will appear.
+![Capture 7.PNG](https://ipfs.busy.org/ipfs/QmVW4pp5xkLGiWRBzTNg1Km1M3HCDgKNrK4t2qxj7yLufa)
+
+<hr>
+
+Click the three dots on the upper right corner.
+![Capture 7a.PNG](https://ipfs.busy.org/ipfs/QmVYbQZyjbA1BtaKP2rgPjhwffqK6qegdt49fvYoQZTPtq)
+
+<hr>
+
+Click "Copy to..."
+![Capture 8.PNG](https://ipfs.busy.org/ipfs/Qme3U9KqCGMhqsxsokioQSZpVjpLWHZz6Kpv3PaMzoXv6X)
+
+<hr>
+
+Click "Pixel XL". IMPORTANT: If something different appears on this step just click it.
+![Capture 9.PNG](https://ipfs.busy.org/ipfs/QmcsiKRdZhJ5XJB2TKkvAJADKY6k6XvcXYNHhi8CMFqyQh)
+
+<hr>
+
+Click "Windows"
+![Capture 10.PNG](https://ipfs.busy.org/ipfs/QmSpyf8NavKgw8Pv6wUhHJ4ZM8n5qMshs6uBbZhZrQPUe7)
+
+<hr>
+
+Click "Documents"
+![Capture 11.PNG](https://ipfs.busy.org/ipfs/QmWJWRr5cXraFg2W1GtmGweYVCbcYoG8GvL8tK5L716wtW)
+
+<hr>
+
+Click "Copy"
+![Capture 12.PNG](https://ipfs.busy.org/ipfs/QmRWXUQtVat3gkQ8i7S49FQct9FH9EnCmDmf51xk3HAKmu)
+
+It is done.
+
+*To check where the file was saved just open the "Documents" folder on your Windows 10. You should be able to see the files now.*
+![Capture 13.PNG](https://ipfs.busy.org/ipfs/QmcSi1b3ZEVeNDYY9TaEFaYBaZ52XzfJkANaUVAXCr7PcA)
+
+
+
+#### Proof of Work Done
+https://github.com/afterglow14/transferring-byteball-full-backup-windows
